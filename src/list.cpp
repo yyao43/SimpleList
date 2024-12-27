@@ -4,7 +4,7 @@ void List::print_menu()
 {
     int choice;
 
-    cout << "###############\n";
+    cout << "###***###***###***###***###\n";
     cout << " 1 - Print list.\n";
     cout << " 2 - Add to list.\n";
     cout << " 3 - Delete from list.\n";
